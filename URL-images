@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<body>
+ <h1>absolute URLs</h1>
+<p><a href="htpps://www.granfaculdade.com.br/"granfaculdade</a></p>
+<p><a href="htpps://www.google.com/"google</a></p>
+<h2>relative URLs</h2>
+<p><a href="html_images.asp">html_images</a></p>
+<p><a href="/css/default.asp">CSS tutorial</a></p>
+</body>
+</html>
+
